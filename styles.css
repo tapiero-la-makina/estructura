@@ -1,0 +1,16 @@
+.padre{
+    border-style: solid;
+    border-radius: 5px;
+
+}
+.nav{
+    border-style: solid;
+    background-color: orange;
+    text-decoration:none;
+    padding: 50px;
+    font-size:larger;
+
+}
+.seccion {
+  border-style: dotted;
+}
